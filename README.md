@@ -1,16 +1,14 @@
-## Hi there 👋
+### Seja bem vindo(a) ao meu perfil no GitHub! 😸
+<hr>
 
-<!--
-**luizbrito7/luizbrito7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre mim 🕵️
+Sou estudante de programação e através da tecnologia quero resolver problemas que possam ajudar de alguma forma a vida das pessoas, atualmente estou estudando tópicos como estrutura de dados, linux, git e desenvolvimento web, o que me move é entender o funcionamento das coisas, para conseguir entregar linhas de código com mais qualidade. 
 
-Here are some ideas to get you started:
+ 
+### Formação acadêmica 🎒
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> <strong>Técnico em Desenvolvimento de Sistemas | SENAI Suiço Brasileiro | Concluído </strong>
+
+### Minhas skills 💻
+
+[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,aws,azure,js,figma,git,github,linux,c,python)](https://skillicons.dev)
