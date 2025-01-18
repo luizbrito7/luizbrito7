@@ -2,4 +2,4 @@
 
 #### Minhas skills 
 
-[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,aws,azure,js,figma,git,github,linux,c,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,aws,azure,js,git,github,linux,c,python)](https://skillicons.dev)
