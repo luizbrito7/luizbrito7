@@ -6,7 +6,7 @@ Meu nome é Luiz, tenho 20 anos Gosto de tecnologia e entender como as coisas re
 #### Formações Academicas
 
 1. Técnico em Desenvolvimento de Sistemas - SENAI Suiço (Concluído)
-2. Tecnologo em Computação em Nuvem - FIAP (cursando)
+2. Tecnologo em Computação em Nuvem - FIAP (Cursando)
 
 #### Stacks/Ferramentas 
 [![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,aws,azure,js,git,github,linux,c,python)](https://skillicons.dev)
