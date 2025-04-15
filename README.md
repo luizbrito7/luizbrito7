@@ -9,7 +9,7 @@ Meu nome é Luiz, tenho 20 anos Gosto de tecnologia e entender como as coisas re
 2. Tecnologo em Computação em Nuvem - FIAP (Cursando)
 
 #### Stacks/Ferramentas 
-[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,aws,azure,js,git,github,linux,c,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,aws,azure,js,git,github,linux,python,terraform)](https://skillicons.dev)
 
 > Confira minhas certificações no [Credly](https://www.credly.com/users/luiz-gustavo-goncalves-brito) 
 
