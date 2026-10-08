@@ -2,8 +2,10 @@
 
 #### Formações Academicas
 
-1. Técnico em Desenvolvimento de Sistemas - SENAI Suiço (Concluído)
-2. Tecnologo em Computação em Nuvem - FIAP (Cursando)
+| Curso | Instituição | Status |
+|---|---|---|
+| Técnico em Desenvolvimento de Sistemas | SENAI | Concluído |
+| Tecnólogo em Computação em Nuvem | FIAP | Cursando |
 
 #### Stacks/Ferramentas 
 [![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,aws,azure,js,git,github,linux,python,terraform)](https://skillicons.dev)
