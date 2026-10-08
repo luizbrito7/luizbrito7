@@ -1,7 +1,5 @@
 ### Seja bem vindo(a) ao meu perfil no GitHub!
 
-Meu nome é Luiz, tenho 22 anos gosto de tecnologia e entender como as coisas realmente funcionam, aqui vou documentar e estruturar projetos voltados á area de Desenvolvimento e Cloud (DevOps).
-
 #### Formações Academicas
 
 1. Técnico em Desenvolvimento de Sistemas - SENAI Suiço (Concluído)
