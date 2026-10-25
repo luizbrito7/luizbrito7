@@ -14,4 +14,28 @@
 
 
 
+# apps
+- [x] brave 
+- [x] discord 
+- [x] spotify 
+- [x] vscode 
+- [x] teams for linux  
+
+# ferramentas 
+- [x] codex 
+- [x] claude 
+- [x] gh cli 
+- [x] kubectl 
+- [x] terraform 
+- [x] tfenv  
+- [x] docker 
+- [x] node 
+- [x] nvm 
+- [x] helm 
+- [x] flameshot 
+- [x] lsd
+- [x] atuin
+- [x] kind
+- [x] anki
+- [x] aws cli
 
