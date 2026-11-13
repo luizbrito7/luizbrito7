@@ -5,7 +5,7 @@
 | Curso | Instituição | Status |
 |---|---|---|
 | Técnico em Desenvolvimento de Sistemas | SENAI | Concluído |
-| Tecnólogo em Computação em Nuvem | FIAP | Cursando |
+| Tecnólogo em Computação em Nuvem | FIAP | Concluído |
 
 #### Stacks/Ferramentas 
 [![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,aws,azure,js,git,github,linux,python,terraform)](https://skillicons.dev)
